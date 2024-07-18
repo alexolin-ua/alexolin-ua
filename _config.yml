@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_small.png"
+  avatar           : "https://i.postimg.cc/BvmT8GPw/profile-small.png"
   name             : "Alex Olin"
   pronouns         : # example: "she/her"  
   bio              : "Strategic Partnerships Manager at NASA Harvest"
